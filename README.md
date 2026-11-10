@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Academic Portfolio</title>
+Academic Portfolio
 </head>
 <body>
 
